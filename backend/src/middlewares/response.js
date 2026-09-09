@@ -1,4 +1,3 @@
-// Gunakan helper ini di semua controller
 exports.successResponse = (res, statusCode, message, data = {}) => {
   return res.status(statusCode).json({
     success: true,
