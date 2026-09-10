@@ -4,7 +4,7 @@ require('dotenv').config();
 
 const authRoutes = require('./routes/authRoutes');
 const patientRoutes = require('./routes/patientRoutes');
-const registrationRoutes = require('./routes/registrationRoutes'); // Perlu kamu buat
+const registrationRoutes = require('./routes/registrationRoutes');
 const queueRoutes = require('./routes/queueRoutes');
 const medicalRecordRoutes = require('./routes/medicalRecordRoutes');
 

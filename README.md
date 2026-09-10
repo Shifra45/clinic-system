@@ -1,5 +1,5 @@
 # Mini Clinic Information System
-Project untuk technical test Programmer Nexa.
+Project untuk technical test Programmer.
 ## Tech Stack
 - Frontend: React.js
 - Backend: Node.js (Express)
